@@ -1,4 +1,4 @@
-````
+
 # sortinpy
 
 Python library providing a collection of classic sorting and searching algorithms implemented from scratch. Designed for educational purposes and practical use in Python projects.
@@ -76,5 +76,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 Created by wandsondev
 
 ```
-```
-
